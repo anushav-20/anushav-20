@@ -1,86 +1,104 @@
-# Hi, I'm Anusha V 👋
+# Anusha V
 
-🐍 Python Full Stack Developer | Django · Flask · React.js · REST APIs
-📍 Bangalore, India | Open to Full Stack / Backend Developer roles
-📧 anushavv61@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/anushav20)
+Python Full Stack Developer | Django, Flask, React.js, REST APIs
+Bangalore, India | Open to Full Stack / Backend Developer roles
+Email: anushavv61@gmail.com
+LinkedIn: https://www.linkedin.com/in/anushav20
 
----
+## About
 
-## 🚀 What I Build
+I build full-stack web applications end to end - backend APIs, database
+design, and React frontends - and I like combining that with applied AI/ML
+where it solves a real problem rather than just for the sake of it.
 
-- 🖥️ **Full-Stack Web Apps** — Django/Flask backends with React.js frontends, REST APIs, JWT auth
-- 🤖 **AI-Powered Applications** — computer vision, speech recognition, and NLP integrated into real products
-- ☁️ **Cloud-Deployed Systems** — AWS (EC2, S3, RDS, Elastic Beanstalk) with CI/CD pipelines
-- 🗄️ **Database-Driven Platforms** — relational schema design across MySQL, SQLite, and H2
+## Tech Stack
 
----
+Languages: Python, JavaScript, SQL, HTML5, CSS3, C, C++
+Frontend: React.js, HTML5, CSS3, JavaScript, Bootstrap
+Backend: Django, Django REST Framework, Flask, REST APIs, JWT authentication
+Databases: MySQL, SQLite, H2, PostgreSQL
+Machine Learning / NLP: scikit-learn, XGBoost, PyTorch, spaCy, NLTK, OpenCV, YOLO, Whisper
+Cloud and DevOps: AWS (EC2, S3, RDS, Elastic Beanstalk, CodePipeline), Docker, Git
 
-## 🔧 Tech Stack
+## Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### TaskFlow - Real-Time Collaborative Kanban Board
+Drag-and-drop kanban board with live multi-user sync over WebSockets.
+Stack: Flask, Flask-SocketIO, SQLAlchemy, React.js
+Repo: https://github.com/anushav-20/taskflow-kanban
 
----
+### ExpenseWise - Personal Finance Tracker
+JWT-secured expense tracker with monthly budgets and category-wise spend charts.
+Stack: Django REST Framework, SimpleJWT, React.js, Chart.js
+Repo: https://github.com/anushav-20/expensewise
 
-## 📌 Featured Projects
+### BlogSphere - Full-Stack Blogging Platform
+Medium-style blogging platform with Markdown posts, tags, likes, and comments.
+Stack: Django REST Framework, drf-nested-routers, React.js, React-Markdown
+Repo: https://github.com/anushav-20/blogsphere
 
-### 🗂️ [TaskFlow — Real-Time Collaborative Kanban Board](https://github.com/anushav-20/taskflow-kanban)
-> Drag-and-drop kanban board with live multi-user sync over WebSockets.
-> **Stack:** Flask · Flask-SocketIO · SQLAlchemy · React.js · Socket.IO
+### SmartATS - AI Resume Screening Tool
+Upload a resume and a job description, get an ATS compatibility score with NLP-driven feedback.
+Stack: Flask, spaCy, pdfplumber, React.js
+Repo: https://github.com/anushav-20/smartats-resume-checker
 
-### 💸 [ExpenseWise — Personal Finance Tracker](https://github.com/anushav-20/expensewise)
-> JWT-secured expense tracker with monthly budgets and category-wise spend charts.
-> **Stack:** Django REST Framework · SimpleJWT · React.js · Chart.js
+### FraudGuard - AI-Powered Real-Time Financial Fraud Detection System
+Ensemble ML model (Random Forest + XGBoost) that scores transactions for fraud risk in real time.
+Stack: scikit-learn, XGBoost, imbalanced-learn, Flask, React.js
+Repo: https://github.com/anushav-20/fraudguard-detection
 
-### 📝 [BlogSphere — Full-Stack Blogging Platform](https://github.com/anushav-20/blogsphere)
-> Medium-style blogging platform with Markdown posts, tags, likes, and comments.
-> **Stack:** Django REST Framework · drf-nested-routers · React.js · React-Markdown
+### TalentMatch - AI Resume Screening and Candidate-Job Matching Engine
+Ranks multiple candidate resumes against a job description with TF-IDF similarity and NER.
+Stack: spaCy, scikit-learn, Flask, React.js
+Repo: https://github.com/anushav-20/talentmatch-engine
 
-### 🎯 [SmartATS — AI Resume Screening Tool](https://github.com/anushav-20/smartats-resume-checker)
-> Upload a resume + job description → get an ATS compatibility score with NLP-driven feedback.
-> **Stack:** Flask · spaCy (NLP) · pdfplumber · React.js
+### ISL Translator - Real-Time Indian Sign Language to Speech and Text
+Translates ISL hand gestures into spoken and written language in real time.
+Stack: OpenCV, MediaPipe, PyTorch (LSTM), Flask, gTTS, React.js
+Repo: https://github.com/anushav-20/isl-translator
 
-### 🎥 AI-Powered Video Insight & Multilingual Chatbot
-> Full-stack AI app for video transcription, summarization, and chatbot Q&A.
-> **Stack:** Flask · React.js · OpenCV · YOLO · Whisper · SQLite
+### Emotion-Aware Study Companion
+Monitors learner engagement during online classes via webcam-based facial expression analysis.
+Stack: OpenCV, PyTorch (CNN), NLP, Flask, React.js
+Repo: https://github.com/anushav-20/emotion-study-companion
 
-### 🛒 E-Commerce Web Application
-> Full-stack e-commerce platform with auth, product catalog, cart, and orders.
-> **Stack:** Django · React.js · MySQL · JWT · Role-Based Access Control
+### CodeSentinel - AI Code Review and Security Vulnerability Scanner
+Static analysis tool: cyclomatic complexity scoring plus a security pattern scanner, built from scratch.
+Stack: Python (ast module), Flask, React.js
+Repo: https://github.com/anushav-20/codesentinel-review
 
-### ✅ Task Management System
-> Secure task manager with JWT auth and a filterable React dashboard.
-> **Stack:** Flask · React.js · MySQL · JWT Authentication
+### EchoMind - AI Mock Interview Coach
+Transcribes spoken interview answers with Whisper and gives delivery feedback on pacing and filler words.
+Stack: OpenAI Whisper, Flask, React.js
+Repo: https://github.com/anushav-20/echomind-interview-coach
 
----
+### PulseCheck - Real-Time Sentiment and Trend Analyzer
+Live sentiment breakdown and trending keyword extraction for a stream of text posts.
+Stack: TextBlob, Flask, Flask-SocketIO, React.js
+Repo: https://github.com/anushav-20/pulsecheck-sentiment
 
-## 💼 Experience
+### PlagiarismGuard - AI Document Similarity and Plagiarism Detector
+Compares two documents using TF-IDF similarity and n-gram overlap to catch both paraphrasing and copying.
+Stack: scikit-learn, Flask, React.js
+Repo: https://github.com/anushav-20/plagiarismguard-detector
 
-- **Python Programming Intern @ S R Innovative Technology** — Built an ML-based NAFLD (liver disease) risk detection system; EDA, classification models, Power BI dashboards
-- **Software Engineer Intern @ JPMorgan Chase & Co.** — Built event-driven financial transaction processing services with Java, Spring Boot, and Apache Kafka
+## Experience
 
----
+Python Programming Intern, S R Innovative Technology (Feb 2026 - May 2026)
+Built an ML-based NAFLD (liver disease) risk detection system - EDA, classification
+models (Decision Trees, Random Forest, Logistic Regression), and Power BI dashboards.
 
-## 🎓 Certifications
-- AWS Solution Architecture Virtual Experience — AWS Forage
-- Software Engineering Virtual Experience — JPMorgan Chase & Co. Forage
-- AI/ML Virtual Internship — Google for Developers
+Software Engineer Intern, JPMorgan Chase and Co. (Nov 2025 - Dec 2025)
+Built event-driven financial transaction processing services using Java, Spring Boot,
+and Apache Kafka, with an H2-backed persistence layer and RESTful APIs.
 
----
+## Certifications
 
-## 📊 GitHub Stats
+AWS Solution Architecture Virtual Experience - AWS Forage
+Software Engineering Virtual Experience - JPMorgan Chase and Co. Forage
+AI/ML Virtual Internship - Google for Developers
 
-![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushav-20&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushav-20&layout=compact&theme=tokyonight&hide_border=true)
+## Education
 
----
-
-📫 Reach out — always open to full-stack developer roles and interesting collaborations!
+Bachelor of Engineering, Computer Science (2022-2026)
+Don Bosco Institute of Technology, Bangalore - CGPA 8.4
